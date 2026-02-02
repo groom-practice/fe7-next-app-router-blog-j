@@ -3,6 +3,9 @@
 구름 FE 7기 실습 과정으로 제작된 **Next.js 블로그 스타터** 프로젝트입니다.  
 App Router 구조를 활용하여 CRUD 기능 및 검색, 카테고리 필터링을 구현했습니다.
 
+## test 영상
+https://github.com/user-attachments/assets/2d034e58-2253-41e2-ad83-7da410069228
+
 ## 🛠 Tech Stack
 
 - **Framework**: Next.js 15 (App Router)
