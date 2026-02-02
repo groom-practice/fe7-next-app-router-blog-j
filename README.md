@@ -1,4 +1,4 @@
-# 🚀 Next.js App Router 기반 블로그 프로젝트
+# 🚀 Next.js App Router 실습 프로젝트
 
 구름 FE 7기 실습 과정으로 제작된 **Next.js 블로그 스타터** 프로젝트입니다.  
 App Router 구조를 활용하여 CRUD 기능 및 검색, 카테고리 필터링을 구현했습니다.
